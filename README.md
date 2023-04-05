@@ -1,6 +1,6 @@
 <h1> Hi 👋, I'm Agnes Pilar </h1>
 
-I'm a web development bootcamp student at UpLeveled based in Vienna, Austria.
+I'm a web development bootcamp graduate at UpLeveled based in Vienna, Austria.
 
 - 🌱 I’m currently developing with JavaScript, TypeScript, React and Next.js
 - 🔭 I’m eager to learn new technologies and improve my skill set
